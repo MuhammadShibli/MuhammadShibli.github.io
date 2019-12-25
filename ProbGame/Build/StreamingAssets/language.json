@@ -1,0 +1,103 @@
+{
+  "_meta": {
+    "maxChars": {
+      "welcome": 20,
+      "readyToPlay": 20,
+      "pressContinue": 50,
+      "greatJob": 20,
+      "onePlusOne": 30
+    }
+  },
+  "en": {
+    "welcome": "Welcome!",
+    "readyToPlay": "Are you ready to play?",
+    "greatJob": "Great job!",
+    "pressContinue": "Press the next button to continue.",
+    "onePlusOne": "One + One = Two",
+    "questionOneText": "This bag has 4 Red, 5 blue, 3 Yellow and 3 Green marbles. What is the theoretical probability of drawing each marble if we put the marble back in the bag each time?",
+    "red":"Red",
+    "blue":"Blue",
+    "green":"Green",
+    "yellow":"Yellow",
+    "questionOneCompleted_1": "Great work! Those are the correct probabilities.\nNow lets see the experimental probability of drawing out each marble.",
+    "questionTwoStarted": "On this screen you can draw out the marbles. Try it a few times by pressing the Draw button.",
+    "questionTwoExplain_1": "This screen shows the Theoretical and Experimental probabilities of drawing out the marbles.",
+    "questionTwoExplain_2": "Try drawing out some more marbles and see how Experimental Probability changes every time a marble is drawn.",
+    "questionTwoExplain_3": "Based on past experience, we can make reasonable estimates of the likelihood of future events. This is called Experimental Probability.",
+    "questionTwoExplain_4": "Try drawing out 25 marbles and answer the question that then appears below.",
+    "questionTwoDropDownCaption":"What can you say about the Experimental Probabilities?",
+    "questionTwoDropDownOption_1":"The Experimental Probabilities are not similar to the Theoretical Probabilities",
+    "questionTwoDropDownOption_2":"The Experimental Probabilities are somewhat similar to the Theoretical Probabilities",
+    "questionTwoDropDownOption_3":"The Experimental Probabilities are close to the Theoretical Probabilities",
+    "questionTwoExplain_5": "Try drawing out 50 marbles and answer the question that then appears below.",
+    "questionTwoExplain_6": "Try drawing out a 100 marbles and answer the question that then appears below.",
+    "questionTwoExplain_7": "As the number of experiments increases the Experimental Probability gets closer to the Theoretical Probability",
+    "questionTwoExplain_8": "Try drawing out 150 marbles and answer the question that then appears below.",
+    "questionTwoExplain_9": "Try drawing out 200 marbles and answer the question that then appears below.",
+    "questionTwoExplain_10": "Answer the question by selecting the most appropriate option from the drop down below and pressing the Okay Button",
+    "Okay": "Okay",
+    "Draw": "Draw",
+    "roll" : "Roll",
+    "back"  : "Back",
+    "diceRolled":"Dice Rolled",
+    "coinsFlipped":"Coins Flipped",
+    "Marbles_Drawn":"Marbles Drawn",
+    "Theoretical_Probabilities":"Theoretical Probabilities :",
+    "Experimental_Probabilities":"Experimental Probabilities :",
+    "questionThreeIntro_1": "In this section you have two bags. You don't know how many red and blue marbles are in each bag.",
+    "questionThreeIntro_2": "Draw a 100 marbles from each bag and answer the questions that appear below.",
+    "questionThreeQuestion_1": "Which bag do you think has an equal number of red and blue marbles?",
+    "questionThreeQuestion_2": "Which bag do you think has more blue marbles?",
+    "first_bag": "The first bag",
+    "second_bag": "The second bag",
+    "questionThree_Draw_from_Other": "You have drawn a 100 marbles from one bag already. Draw a 100 from the other too.",
+    "you_are_correct_1": "That's correct. The first bag has 7 blue marbles and 3 red marbles as shown by the Experimental Probabilities",
+    "you_are_wrong_1": "That's incorrect. The first bag has 7 blue marbles and 3 red marbles as shown by the Experimental Probabilities",
+    "you_are_correct_2": "That's correct. The second bag has an equal number of red and blue marbles.",
+    "you_are_wrong_2": "That's incorrect. The second bag has an equal number of red and blue marbles.",
+    "congratulations_finished": "Congratulations, you have finished the main part of the game. " ,
+    "next_steps": "You can now go to the main menu and explore the other unlocked modes.",
+    "dice_mode_intro": "This mode shows the Experimental Probability of rolling a fair six sided dice. Try it!",
+    "coin_mode_intro": "This mode shows the Experimental Probability of flipping a fair coin. Try it!",
+    "stage_locked": "This mode is currently locked. Complete the Main Game to unlock it.",
+    "stage_unlocked": "Dice Mode and Coin Mode have been unlocked!",
+    "heads":"Heads",
+    "tails":"Tails",
+    "flip":"Flip",
+    "question2_complete":"Remember! Experimental Probabilities get closer to Theoretical Probabilities as the number of experiments grows.",
+    "question2_complete_2":"You have completed this part of the game. Lets go to the next part."
+
+
+
+
+
+  },
+  "es": {
+    "welcome": "¡Bienvenido!",
+    "readyToPlay": "¿Estás listo para jugar?",
+    "greatJob": "¡Gran trabajo!",
+    "pressContinue": "Presione el botón 'siguiente' para continuar.",
+    "onePlusOne": "Uno + Uno = Dos"
+  },
+  "zh": {
+    "welcome": "欢迎！",
+    "readyToPlay": "你准备好玩吗",
+    "greatJob": "做得好！",
+    "pressContinue": "按“下一步”按钮继续。",
+    "onePlusOne": "一+一=二"
+  },
+  "jp": {
+    "welcome": "ようこそ!",
+    "readyToPlay": "あなたは遊ぶ準備ができていますか？",
+    "greatJob": "よくやった！",
+    "pressContinue": "続行するには '次へ'ボタンを押してください。",
+    "onePlusOne": "1 + 1 = 2"
+  },
+  "ru": {
+    "welcome": "Добро пожаловать!",
+    "readyToPlay": "Вы готовы играть?",
+    "greatJob": "Отличная работа!",
+    "pressContinue": "Нажмите следующую кнопку, чтобы продолжить.",
+    "onePlusOne": "один + один"
+  }
+}
